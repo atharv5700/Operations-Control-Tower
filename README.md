@@ -1,4 +1,5 @@
 # 🗼 AI-Driven Supply Chain Control Tower
+try the streamlit deployment for free - https://operations-control-tower-k6u9eccxevsyvrrmuwby5x.streamlit.app/
 
 > **Truly Intelligent, 100% Offline, Docker-Deployable Supply Chain Optimization Platform**
 
@@ -6,7 +7,7 @@ Transform your supply chain from **reactive firefighting** to **proactive intell
 
 ---
 
-## ✨ What's Actually Intelligent (Not Fake AI)
+## ✨ What's Actually Intelligent
 
 ### 🧠 Ensemble ML Forecasting
 
@@ -276,13 +277,6 @@ docker load < supply-chain.tar
 docker run -p 8501:8501 ai-supply-chain-tower
 ```
 
-### GitHub/GitLab
-
-```bash
-git clone https://github.com/yourcompany/ai-supply-chain-tower
-cd ai-supply-chain-tower
-docker-compose up -d
-```
 
 ---
 
@@ -309,12 +303,6 @@ This is an internal project, but you can:
 3. Add new optimization algorithms
 4. Improve ML models
 5. Add more transport modes
-
----
-
-## 📄 License
-
-[Add your company license here]
 
 ---
 
@@ -349,8 +337,4 @@ This is an internal project, but you can:
 📚 **Documented** - Every formula explained  
 🎯 **Practical** - Built for real supply chain problems  
 
-**This is not a toy demo. This is a production-grade supply chain optimization platform.**
 
----
-
-**🚀 Ready to deploy? See [DEPLOYMENT.md](DEPLOYMENT.md)**
